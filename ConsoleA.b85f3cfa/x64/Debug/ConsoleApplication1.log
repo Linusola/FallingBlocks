@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Admin\OneDrive\Desktop\ola\ConsoleApplication1\ConsoleApplication1.cpp(124,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\ola\ConsoleApplication1\ConsoleApplication1.cpp(128,18): warning C4305: '=': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\OneDrive\Desktop\ola\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
